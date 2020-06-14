@@ -5,17 +5,17 @@ A Vue Startup based on webpack 4
  
 ## Getting Started
  
-# npm install
+npm install
 
-# npm run dev
+npm run dev
  
-# npm run build
+npm run build
 
  
 ## Built With
  
-# vue
-# webpack 
+vue
+webpack 
 
  
 ## Authors
